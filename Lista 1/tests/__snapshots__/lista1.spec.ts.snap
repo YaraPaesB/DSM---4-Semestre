@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testes lista 1 valida numero de caracteres para parametro senha 1`] = `"Ultrapassou o limite de caracteres"`;
