@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1724289077918" clover="3.2.0">
+  <project timestamp="1724289077919" name="All files">
+    <metrics statements="11" coveredstatements="10" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="4" elements="18" coveredelements="16" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="operations.ts" path="C:\Users\Alunos\Desktop\4º Semestre\3 - Laboratorio Desenvolvimento Web\Aula-2-3\src\operations.ts">
+      <metrics statements="11" coveredstatements="10" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="1" type="cond" truecount="2" falsecount="1"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="50" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
